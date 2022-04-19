@@ -9,5 +9,10 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("ini master")
+
+        println("ini contoh1")
+        println("ini contoh2")
+        println("ini contoh3")
+
     }
 }
