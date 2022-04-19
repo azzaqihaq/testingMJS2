@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         println("ini contoh1")
         println("ini contoh2")
-        println("ini test konflik")
+        println("ini test contoh2")
 
         println("ini perubahan contoh ke 2")
         println("ini merge ke 2")
