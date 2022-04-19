@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         println("ini master")
 
-        println("ini contoh1")
+        println("ini contoh fixiw")
         println("ini contoh2")
         println("ini test contoh2")
 
